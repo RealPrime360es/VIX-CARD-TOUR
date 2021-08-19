@@ -1,0 +1,75 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Tour Virtual 
+
+### Title
+tour.name = VIX CARD
+
+## Skin
+
+### Button
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = ENTRADA ANDAR 2
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = ENTRADA ANDAR 2
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = ENTRADA TÉRREO
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.pressedLabel = ENTRADA TÉRREO
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = ENTRADA TÉRREO
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.pressedLabel = ENTRADA TÉRREO
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.label = NOSSO SITE
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.pressedLabel = NOSSO SITE
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = NOSSO SITE
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = NOSSO SITE
+Button_17598215_31FA_0014_41AC_1166AB319171.label = RECEPÇÃO 2
+Button_17598215_31FA_0014_41AC_1166AB319171.pressedLabel = RECEPÇÃO 2
+Button_17598215_31FA_0014_41AC_1166AB319171_mobile.label = RECEPÇÃO 2
+Button_17598215_31FA_0014_41AC_1166AB319171_mobile.pressedLabel = RECEPÇÃO 2
+Button_1759A215_31FA_0014_41C7_F6B1044E5BB3.label = RECEPÇÃO 1
+Button_1759A215_31FA_0014_41C7_F6B1044E5BB3.pressedLabel = RECEPÇÃO 1
+Button_1759A215_31FA_0014_41C7_F6B1044E5BB3_mobile.label = RECEPÇÃO 1
+Button_1759A215_31FA_0014_41C7_F6B1044E5BB3_mobile.pressedLabel = RECEPÇÃO 1
+Button_175A5214_31FA_0014_4198_930DF49BADD9.label = VOLTAR
+Button_175A5214_31FA_0014_4198_930DF49BADD9_mobile.label = VOLTAR
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label = RECEPÇÕES
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.pressedLabel = RECEPÇÕES
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = RECEPÇÕES
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.pressedLabel = RECEPÇÕES
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_1DE30B35_5B32_795E_41D6_73FFAB0C8D40.label = Entrada Terreo
+panorama_1F885BC8_5B32_5936_41D6_A58CB0843B11.label = SALA
+panorama_1FB911C8_5B37_A936_41A3_3CBBA76FCA02.label = SALA 2-1
+panorama_1FB921D5_5B36_68DE_41D5_0D72F6E92E65.label = SALA 3
+panorama_1FB9311B_5B37_E94A_41CB_F4D6A3D37ECB.label = CORREDOR
+panorama_1FB9320E_5B36_6B4A_41AC_4C97523C5855.label = SALA 5
+panorama_1FB94214_5B36_AB5E_41AE_C2E0B9E0CE75.label = CORREDOR 2
+panorama_1FB9A175_5B36_A9DE_41C5_13FA980F8E44.label = RECEPÇÃO 2
+panorama_1FBA9176_5B32_69DA_41C9_5ADB3AA82910.label = SALA 2
+panorama_1FBAE176_5B35_E9DA_41D4_7BCD731D9D95.label = SALA 1
+panorama_1FBB8564_5B32_A9FE_4190_4B82F18F1570.label = RECEPÇÃO 1
+panorama_1FBBDD59_5B32_D9D6_41D7_3B78B0CF93CF.label = CORREDOR
+panorama_1FBF13CA_5B36_A8CA_41D2_63C7DE55FC57.label = SALA 2-4
+panorama_1FBF56BB_5B36_EB4A_41C0_13BFC07A366C.label = SALA 2-2
+panorama_1FBF5F4D_5B35_B9CE_41D0_4C60A5C41842.label = Entrada Segundo Anadar
+panorama_1FBF94A2_5B35_AF7A_41C0_A4057683FE33.label = SALA 2-3
+
+## Action
+
+### URL
+LinkBehaviour_00C3FE1B_5B32_DB49_41D1_F95A0F1EF85D.source = https://www.facebook.com/pg/vixcard.es/posts/
+LinkBehaviour_012A9E16_5B36_5B5A_41C5_AF59679452D1.source = https://api.whatsapp.com/send?phone=5527992222226
+LinkBehaviour_3841D4D9_5B12_68D6_41D6_D53043E189AD.source = https://www.instagram.com/vixcard.es/
+LinkBehaviour_384294D9_5B12_68D6_41C4_8A0BF78E48C1.source = https://api.whatsapp.com/send?phone=5527992222226
+LinkBehaviour_3842F4D9_5B12_68D6_41D2_0ECD9FB45ED4.source = https://www.google.com/maps/place/Vixcard+-+Tecnologia+em+Identifica%C3%A7%C3%A3o/@-20.1967503,-40.2588472,15z/data=!4m2!3m1!1s0x0:0xfae4f152b39a735e?sa=X&ved=2ahUKEwiogYDpp73yAhUWlJUCHQdJDRkQ_BIwEnoECFMQBQ
+LinkBehaviour_384A04C9_5B12_6F36_41BD_F9D13F88A804.source = https://www.facebook.com/pg/vixcard.es/posts/
+LinkBehaviour_384D74D9_5B12_68D6_41BD_294E4F6352A7.source = https://vixcard.com.br/
+LinkBehaviour_3CB1EA20_5B32_BB76_41C4_37E2D5B66D21.source = https://www.instagram.com/vixcard.es/
+LinkBehaviour_3D9FCAB5_5B16_BB5E_4163_DBAF37C5546D.source = https://vixcard.com.br/
+LinkBehaviour_3E2C451F_5B32_6949_41B8_443EB0491843.source = https://www.google.com/maps/place/Vixcard+-+Tecnologia+em+Identifica%C3%A7%C3%A3o/@-20.1967503,-40.2588472,15z/data=!4m2!3m1!1s0x0:0xfae4f152b39a735e?sa=X&ved=2ahUKEwiogYDpp73yAhUWlJUCHQdJDRkQ_BIwEnoECFMQBQ
